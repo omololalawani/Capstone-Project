@@ -1,1 +1,6 @@
-# this is my first python project and my first time using Githu
+# My First Python Project 
+This is my first GitHub repository. 
+## Features
+. covid 19 zip file from kaggle
+. my jupyter notebook
+
