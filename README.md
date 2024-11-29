@@ -1,2 +1,1 @@
-# Capstone-Project
-This repository contained my 3MTT capstone project
+# this is my first python project and my first time using Githu
